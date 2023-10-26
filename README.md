@@ -1,6 +1,6 @@
-# Qui suis-je
-Je m'appelle Louis-Philippe, j'étudie à l'École de technologie supérieure en Génie logiciel.
-J'affectionne particulièrement le développement mobile et web front-end.
+# Qui suis-je ?
+- Je m'appelle Louis-Philippe, j'étudie à l'École de technologie supérieure en Génie logiciel.
+- J'affectionne particulièrement le développement mobile et web front-end.
 
 # Statistiques
 <p align="center">
