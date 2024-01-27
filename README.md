@@ -4,11 +4,9 @@
 
 # Statistiques
 <p align="center">
-  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=louisphilippeheon&theme=nord_dark" />
-  <br><br>
   <img align="center" height="220px" src="https://github-readme-stats.vercel.app/api?username=louisphilippeheon&show_icons=true&theme=nord&locale=fr" />
   <br><br>
-  <img align="center" height="220px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=louisphilippeheon&layout=donut&theme=nord&locale=fr"/>
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=louisphilippeheon&theme=nord_dark" />
 </p>
 
 # Connaissances
