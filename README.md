@@ -1,4 +1,4 @@
-# @LouisPhilippeHeon - Louis-Philippe Héon
+<h1 align="center">@LouisPhilippeHeon - Louis-Philippe Héon</h1>
 
 ## Qui suis-je ?
 - 🎓 Étudiant à l'École de technologie supérieure en Génie logiciel.
