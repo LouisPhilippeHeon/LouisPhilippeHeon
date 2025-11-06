@@ -2,7 +2,7 @@
 
 ## Qui suis-je ?
 - 🎓 Étudiant à l'École de technologie supérieure en Génie logiciel.
-- 📱 Développeur et co-capitaine au club [App|ETS](https://clubapplets.ca).
+- 📱 Capitaine du club [App|ETS](https://clubapplets.ca).
 - 💻 Passionné de développement, en particulier mobile et web front-end.
   - 🖌️ Plus spécifiquement, je me spécialise en UI/UX.
   - ♿️ Je conçois et implémente des projets accessibles à tous (WCAG).
